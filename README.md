@@ -4,7 +4,6 @@
 
 <h3 align="center">If You're Interested In My Projects, Feel Free To Check Out My Portfolio Website At</h3>
 <p align="center">https://sudarika.netlify.app/</p>
-<p align="center">    <img src="https://firebasestorage.googleapis.com/v0/b/online-learning-7b1cf.appspot.com/o/Sudarika.png?alt=media&token=a9c91934-4fb3-4272-88ae-3370d83cd628" width="600"></p>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarika&" alt="Sudarika" width="600"/></p>
 
 <h3 align="center">Languages</h3>
